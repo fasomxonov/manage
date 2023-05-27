@@ -1,5 +1,5 @@
 <template>
-  <nav class="relative mx-auto p-6">
+  <nav class="relative container mx-auto p-6">
     <div class="flex items-center justify-between">
       <div class="pt-2">
         <img src="@/assets/img/logo.svg" alt="main_logo" />

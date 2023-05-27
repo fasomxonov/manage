@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col-reverse items-center px-6 mx-auto mt-10 md:flex-row"
+    class="flex flex-col-reverse items-center px-6 container mx-auto mt-10 md:flex-row"
   >
     <div class="flex flex-col space-y-10 mb-28 md:mb-32 md:w-1/2 lg:space-y-12">
       <h1

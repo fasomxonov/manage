@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-6xl px-5 mx-auto mt-32 text-center">
+  <div class="max-w-6xl px-5 container mx-auto mt-32 text-center">
     <h2 class="text-4xl font-bold text-center">
       What's Different About Manage?
     </h2>

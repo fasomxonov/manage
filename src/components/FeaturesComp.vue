@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col px-4 mx-auto mt-10 space-y-12 md:space-y-0 md:flex-row"
+    class="flex flex-col px-4 container mx-auto mt-10 space-y-12 md:space-y-0 md:flex-row"
   >
     <div class="flex flex-col space-y-8 md:space-y-12 md:w-1/2">
       <h2
